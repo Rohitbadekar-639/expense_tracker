@@ -1,0 +1,27 @@
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .charts-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .summary-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: var(--card-bg);
+    color: var(--text-color);
+  }
+  
+  .filter-panel {
+    margin-bottom: 20px;
+  }
+  
+  .theme-toggle button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
